@@ -1,0 +1,32 @@
+body {
+    background-color: #f1f2d3;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1{
+    text-align:center;
+    border:1px solid gold;
+    display: inline-block;
+    width:50%;
+    padding: 30px;
+    margin-left:10%;
+
+}
+img{
+    display:block;
+    align-content:center;
+}
+button {
+    background-color: #dcde97;
+    width:100px;
+    height:50px;
+    border:3px solid gold;
+    box-shadow:10px 10px 10px #333;
+    border-radius:30px;
+}
+    button:hover {
+        border: 5px solid grey;
+        background-color: #e7eb7a;
+        width:110px;
+        height:55px;
+    }
+

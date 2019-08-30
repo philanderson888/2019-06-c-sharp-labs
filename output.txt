@@ -1,0 +1,1667 @@
+Folder PATH listing for volume Windows
+Volume serial number is 3E04-C655
+C:.
+ÃÄÄÄ.vs
+ÃÄÄÄdata
+ÀÄÄÄlabs
+    ÃÄÄÄhtml
+    ÃÄÄÄlab_01
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_02
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_03_old_forms_app
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_04_WPF_starter
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_05b_asp_core_demo
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ³       ÀÄÄÄProperties
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ³       ÀÄÄÄRazor
+    ³   ³   ³           ÀÄÄÄPages
+    ³   ³   ³               ÀÄÄÄShared
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÃÄÄÄPages
+    ³   ³   ÀÄÄÄShared
+    ³   ÃÄÄÄProperties
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄimages
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÃÄÄÄfonts
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄlab_05_asp_core_demo
+    ³   ÃÄÄÄAreas
+    ³   ³   ÀÄÄÄIdentity
+    ³   ³       ÀÄÄÄPages
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÃÄÄÄProperties
+    ³   ³   ³       ÀÄÄÄruntimes
+    ³   ³   ³           ÃÄÄÄunix
+    ³   ³   ³           ³   ÀÄÄÄlib
+    ³   ³   ³           ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³   ³           ÃÄÄÄwin
+    ³   ³   ³           ³   ÀÄÄÄlib
+    ³   ³   ³           ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³   ³           ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³   ³           ÃÄÄÄwin-arm64
+    ³   ³   ³           ³   ÀÄÄÄnative
+    ³   ³   ³           ÃÄÄÄwin-x64
+    ³   ³   ³           ³   ÀÄÄÄnative
+    ³   ³   ³           ÀÄÄÄwin-x86
+    ³   ³   ³               ÀÄÄÄnative
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÃÄÄÄData
+    ³   ³   ÀÄÄÄMigrations
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÀÄÄÄRazor
+    ³   ³   ³           ÃÄÄÄAreas
+    ³   ³   ³           ³   ÀÄÄÄIdentity
+    ³   ³   ³           ³       ÀÄÄÄPages
+    ³   ³   ³           ÀÄÄÄPages
+    ³   ³   ³               ÀÄÄÄShared
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÃÄÄÄPages
+    ³   ³   ÀÄÄÄShared
+    ³   ÃÄÄÄProperties
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄlab_06_asp_forms_site_older
+    ³   ÃÄÄÄApp_Data
+    ³   ÃÄÄÄApp_Start
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄroslyn
+    ³   ÃÄÄÄContent
+    ³   ÃÄÄÄfonts
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÀÄÄÄScripts
+    ³       ÀÄÄÄWebForms
+    ³           ÀÄÄÄMSAjax
+    ÃÄÄÄlab_07_entity_demo
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_08_wpf_database_demo
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_09_api_demo
+    ³   ÃÄÄÄApp_Data
+    ³   ÃÄÄÄApp_Start
+    ³   ÃÄÄÄAreas
+    ³   ³   ÀÄÄÄHelpPage
+    ³   ³       ÃÄÄÄApp_Start
+    ³   ³       ÃÄÄÄControllers
+    ³   ³       ÃÄÄÄModelDescriptions
+    ³   ³       ÃÄÄÄModels
+    ³   ³       ÃÄÄÄSampleGeneration
+    ³   ³       ÀÄÄÄViews
+    ³   ³           ÃÄÄÄHelp
+    ³   ³           ³   ÀÄÄÄDisplayTemplates
+    ³   ³           ÀÄÄÄShared
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄroslyn
+    ³   ÃÄÄÄContent
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄfonts
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄScripts
+    ³   ÀÄÄÄViews
+    ³       ÃÄÄÄHome
+    ³       ÀÄÄÄShared
+    ÃÄÄÄlab_10_mvc_database_demo
+    ³   ÃÄÄÄApp_Data
+    ³   ÃÄÄÄApp_Start
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄroslyn
+    ³   ÃÄÄÄContent
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄfonts
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄScripts
+    ³   ÀÄÄÄViews
+    ³       ÃÄÄÄCustomers
+    ³       ÃÄÄÄHome
+    ³       ÃÄÄÄProducts
+    ³       ÀÄÄÄShared
+    ÃÄÄÄlab_11_objects
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp2.1
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp2.1
+    ÃÄÄÄlab_12_classes
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp2.1
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp2.1
+    ÃÄÄÄlab_13_methods
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp2.1
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp2.1
+    ÃÄÄÄlab_14_public_properties
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp2.1
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp2.1
+    ÃÄÄÄlab_15_constructor
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp2.1
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp2.1
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp2.1
+    ÃÄÄÄlab_16_rabbits
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_17_rabbit_manual_click
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_18_method_overloading
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_19_polymorphism
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_20_library
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_20_use_data_from_library
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_21_abstract_class
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_22_first_test
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_23_methods
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_24_gaming_interface
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_25_strings
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_26_integer_handling
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_27_date_time_stopwatch
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_28_enum
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_29_variables
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_30_pyramid
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_31_loops
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_32_3_cats_in_order_of_age
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_33_struct
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_34_list
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_35b_exception
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_35_exception
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_36_throw
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_37_WPF_grid_click
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_38_stack_panel
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_39_button_grid
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_40_loops
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_41_casting
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_42_operators
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_43_database_app
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_44_exception_recursive
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_45_snaplab_structs
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_46_panels
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_47_business_app
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_48_business_search
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_49_reference_value_types
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_50_async
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_51_entity_CRUD_app
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_52_LINQ_simple
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_53_LINQ
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄedmxResourcesToEmbed
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_54_WPF_Metro
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄImages
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÃÄÄÄResources
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÃÄÄÄResources
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÀÄÄÄResources
+    ÃÄÄÄlab_55_CSV_Word_Excel
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_56_website_hello_world
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÀÄÄÄProperties
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÀÄÄÄRazor
+    ³   ³   ³           ÀÄÄÄPages
+    ³   ³   ³               ÀÄÄÄShared
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÃÄÄÄPages
+    ³   ³   ÀÄÄÄShared
+    ³   ÃÄÄÄProperties
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄlab_58_interfaces
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_59_Debugging
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄlab_60_events_trivial
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_61_events_OOP
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_62_streaming
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_63_web_streaming
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_64_serialize_xml
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_65_serialise_JSON
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_66_serialize_binary
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_67_XML
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_68_SQL_CRUD_App_with_Raw_CSharp
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄruntimes
+    ³   ³               ÃÄÄÄunix
+    ³   ³               ³   ÀÄÄÄlib
+    ³   ³               ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³               ÃÄÄÄwin
+    ³   ³               ³   ÀÄÄÄlib
+    ³   ³               ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³               ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³               ÃÄÄÄwin-arm64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄwin-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÀÄÄÄwin-x86
+    ³   ³                   ÀÄÄÄnative
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_69_XML_from_Northwind
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄruntimes
+    ³   ³               ÃÄÄÄunix
+    ³   ³               ³   ÀÄÄÄlib
+    ³   ³               ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³               ÃÄÄÄwin
+    ³   ³               ³   ÀÄÄÄlib
+    ³   ³               ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³               ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³               ÃÄÄÄwin-arm64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄwin-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÀÄÄÄwin-x86
+    ³   ³                   ÀÄÄÄnative
+    ³   ÀÄÄÄobj
+    ³       ÀÄÄÄDebug
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄlab_70_ASP_Framework_Website
+    ³   ÃÄÄÄApp_Data
+    ³   ÃÄÄÄApp_Start
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄroslyn
+    ³   ÃÄÄÄContent
+    ³   ÃÄÄÄfonts
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÀÄÄÄScripts
+    ³       ÀÄÄÄWebForms
+    ³           ÀÄÄÄMSAjax
+    ÃÄÄÄlab_71_MVC_Framework_Northwind
+    ³   ÃÄÄÄApp_Data
+    ³   ÃÄÄÄApp_Start
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄroslyn
+    ³   ÃÄÄÄContent
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄfonts
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÃÄÄÄedmxResourcesToEmbed
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄScripts
+    ³   ÀÄÄÄViews
+    ³       ÃÄÄÄHome
+    ³       ÃÄÄÄProducts
+    ³       ÃÄÄÄShared
+    ³       ÃÄÄÄTest
+    ³       ÀÄÄÄTest2
+    ÃÄÄÄMVC_01
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄProperties
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄRazor
+    ³   ³               ÀÄÄÄViews
+    ³   ³                   ÃÄÄÄHome
+    ³   ³                   ÀÄÄÄShared
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄViews
+    ³   ³   ÃÄÄÄHome
+    ³   ³   ÀÄÄÄShared
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄMVC_02
+    ³   ÃÄÄÄAreas
+    ³   ³   ÀÄÄÄIdentity
+    ³   ³       ÀÄÄÄPages
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÃÄÄÄcs
+    ³   ³           ÃÄÄÄde
+    ³   ³           ÃÄÄÄes
+    ³   ³           ÃÄÄÄfr
+    ³   ³           ÃÄÄÄit
+    ³   ³           ÃÄÄÄja
+    ³   ³           ÃÄÄÄko
+    ³   ³           ÃÄÄÄpl
+    ³   ³           ÃÄÄÄProperties
+    ³   ³           ÃÄÄÄpt-BR
+    ³   ³           ÃÄÄÄru
+    ³   ³           ÃÄÄÄruntimes
+    ³   ³           ³   ÃÄÄÄunix
+    ³   ³           ³   ³   ÀÄÄÄlib
+    ³   ³           ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³           ³   ÃÄÄÄwin
+    ³   ³           ³   ³   ÀÄÄÄlib
+    ³   ³           ³   ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³           ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³           ³   ÃÄÄÄwin-arm64
+    ³   ³           ³   ³   ÀÄÄÄnative
+    ³   ³           ³   ÃÄÄÄwin-x64
+    ³   ³           ³   ³   ÀÄÄÄnative
+    ³   ³           ³   ÀÄÄÄwin-x86
+    ³   ³           ³       ÀÄÄÄnative
+    ³   ³           ÃÄÄÄtr
+    ³   ³           ÃÄÄÄzh-Hans
+    ³   ³           ÀÄÄÄzh-Hant
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄData
+    ³   ÃÄÄÄMigrations
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄRazor
+    ³   ³               ÃÄÄÄAreas
+    ³   ³               ³   ÀÄÄÄIdentity
+    ³   ³               ³       ÀÄÄÄPages
+    ³   ³               ÀÄÄÄViews
+    ³   ³                   ÃÄÄÄCategories
+    ³   ³                   ÃÄÄÄHome
+    ³   ³                   ÃÄÄÄShared
+    ³   ³                   ÃÄÄÄTests
+    ³   ³                   ÀÄÄÄTests2
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄViews
+    ³   ³   ÃÄÄÄCategories
+    ³   ³   ÃÄÄÄHome
+    ³   ³   ÃÄÄÄShared
+    ³   ³   ÃÄÄÄTests
+    ³   ³   ÀÄÄÄTests2
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄMVC_03
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÃÄÄÄcs
+    ³   ³           ÃÄÄÄde
+    ³   ³           ÃÄÄÄes
+    ³   ³           ÃÄÄÄfr
+    ³   ³           ÃÄÄÄit
+    ³   ³           ÃÄÄÄja
+    ³   ³           ÃÄÄÄko
+    ³   ³           ÃÄÄÄpl
+    ³   ³           ÃÄÄÄProperties
+    ³   ³           ÃÄÄÄpt-BR
+    ³   ³           ÃÄÄÄru
+    ³   ³           ÃÄÄÄruntimes
+    ³   ³           ³   ÃÄÄÄunix
+    ³   ³           ³   ³   ÀÄÄÄlib
+    ³   ³           ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³           ³   ÃÄÄÄwin
+    ³   ³           ³   ³   ÀÄÄÄlib
+    ³   ³           ³   ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³           ³   ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³           ³   ÃÄÄÄwin-arm64
+    ³   ³           ³   ³   ÀÄÄÄnative
+    ³   ³           ³   ÃÄÄÄwin-x64
+    ³   ³           ³   ³   ÀÄÄÄnative
+    ³   ³           ³   ÀÄÄÄwin-x86
+    ³   ³           ³       ÀÄÄÄnative
+    ³   ³           ÃÄÄÄtr
+    ³   ³           ÃÄÄÄzh-Hans
+    ³   ³           ÀÄÄÄzh-Hant
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄMigrations
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄRazor
+    ³   ³               ÀÄÄÄViews
+    ³   ³                   ÃÄÄÄHome
+    ³   ³                   ÀÄÄÄShared
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄViews
+    ³   ³   ÃÄÄÄHome
+    ³   ³   ÀÄÄÄShared
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄMVC_04_Code_First_From_Database
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÃÄÄÄProperties
+    ³   ³           ÀÄÄÄruntimes
+    ³   ³               ÃÄÄÄalpine-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄlinux-arm
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄlinux-arm64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄlinux-armel
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄlinux-musl-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄlinux-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄlinux-x86
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄosx-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄunix
+    ³   ³               ³   ÀÄÄÄlib
+    ³   ³               ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³               ÃÄÄÄwin
+    ³   ³               ³   ÀÄÄÄlib
+    ³   ³               ³       ÃÄÄÄnetcoreapp2.0
+    ³   ³               ³       ÀÄÄÄnetcoreapp2.1
+    ³   ³               ÃÄÄÄwin-arm64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄwin-x64
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÃÄÄÄwin-x86
+    ³   ³               ³   ÀÄÄÄnative
+    ³   ³               ÀÄÄÄwin8-arm
+    ³   ³                   ÀÄÄÄnative
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ³           ÀÄÄÄRazor
+    ³   ³               ÀÄÄÄViews
+    ³   ³                   ÃÄÄÄHome
+    ³   ³                   ÀÄÄÄShared
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄViews
+    ³   ³   ÃÄÄÄHome
+    ³   ³   ÀÄÄÄShared
+    ³   ÀÄÄÄwwwroot
+    ³       ÃÄÄÄcss
+    ³       ÃÄÄÄjs
+    ³       ÀÄÄÄlib
+    ³           ÃÄÄÄbootstrap
+    ³           ³   ÀÄÄÄdist
+    ³           ³       ÃÄÄÄcss
+    ³           ³       ÀÄÄÄjs
+    ³           ÃÄÄÄjquery
+    ³           ³   ÀÄÄÄdist
+    ³           ÃÄÄÄjquery-validation
+    ³           ³   ÀÄÄÄdist
+    ³           ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄMVC_05_Framework_DB_First
+    ³   ÃÄÄÄApp_Data
+    ³   ÃÄÄÄApp_Start
+    ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄroslyn
+    ³   ÃÄÄÄContent
+    ³   ÃÄÄÄControllers
+    ³   ÃÄÄÄfonts
+    ³   ÃÄÄÄModels
+    ³   ÃÄÄÄobj
+    ³   ³   ÀÄÄÄDebug
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÃÄÄÄProperties
+    ³   ÃÄÄÄScripts
+    ³   ÀÄÄÄViews
+    ³       ÃÄÄÄHome
+    ³       ÃÄÄÄShared
+    ³       ÀÄÄÄTasks
+    ÃÄÄÄpackages
+    ³   ÃÄÄÄAntlr.3.5.0.2
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄAspNet.ScriptManager.bootstrap.3.4.1
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄAspNet.ScriptManager.jQuery.3.3.1
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄbootstrap.3.4.1
+    ³   ³   ÃÄÄÄcontent
+    ³   ³   ³   ÃÄÄÄContent
+    ³   ³   ³   ÃÄÄÄfonts
+    ³   ³   ³   ÀÄÄÄScripts
+    ³   ³   ÀÄÄÄcontentFiles
+    ³   ³       ÃÄÄÄContent
+    ³   ³       ÃÄÄÄfonts
+    ³   ³       ÀÄÄÄScripts
+    ³   ÃÄÄÄControlzEx.3.0.2.4
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÃÄÄÄnet45
+    ³   ³       ÀÄÄÄnet462
+    ³   ÃÄÄÄDocX.1.3.0
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÀÄÄÄnet40
+    ³   ³   ÀÄÄÄtools
+    ³   ÃÄÄÄEntityFramework.6.2.0
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ³   ÀÄÄÄnet40
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÃÄÄÄnet40
+    ³   ³   ³   ÀÄÄÄnet45
+    ³   ³   ÀÄÄÄtools
+    ³   ÃÄÄÄjQuery.3.3.1
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ³   ÀÄÄÄScripts
+    ³   ³   ÀÄÄÄTools
+    ³   ÃÄÄÄjQuery.Validation.1.17.0
+    ³   ³   ÀÄÄÄContent
+    ³   ³       ÀÄÄÄScripts
+    ³   ÃÄÄÄMahApps.Metro.1.6.5
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÃÄÄÄnet45
+    ³   ³       ÃÄÄÄnet46
+    ³   ³       ÀÄÄÄnet47
+    ³   ÃÄÄÄMahApps.Metro.IconPacks.Modern.2.3.0
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÃÄÄÄnet45
+    ³   ³       ÃÄÄÄnet46
+    ³   ³       ÀÄÄÄuap10.0
+    ³   ³           ÃÄÄÄMahApps.Metro.IconPacks.Core
+    ³   ³           ³   ÀÄÄÄConverter
+    ³   ³           ÀÄÄÄMahApps.Metro.IconPacks.Modern
+    ³   ³               ÀÄÄÄThemes
+    ³   ÃÄÄÄMahApps.Metro.Resources.0.6.1.0
+    ³   ³   ÀÄÄÄcontent
+    ³   ³       ÀÄÄÄResources
+    ³   ÃÄÄÄMicrosoft.AspNet.FriendlyUrls.1.0.2
+    ³   ³   ÀÄÄÄContent
+    ³   ³       ÀÄÄÄApp_Start
+    ³   ÃÄÄÄMicrosoft.AspNet.FriendlyUrls.Core.1.0.2
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.Mvc.5.2.7
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.Razor.3.2.7
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.ScriptManager.MSAjax.5.0.0
+    ³   ³   ÃÄÄÄcontent
+    ³   ³   ³   ÀÄÄÄScripts
+    ³   ³   ³       ÀÄÄÄWebForms
+    ³   ³   ³           ÀÄÄÄMSAjax
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.ScriptManager.WebForms.5.0.0
+    ³   ³   ÃÄÄÄcontent
+    ³   ³   ³   ÀÄÄÄScripts
+    ³   ³   ³       ÀÄÄÄWebForms
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.Web.Optimization.1.1.3
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet40
+    ³   ÃÄÄÄMicrosoft.AspNet.Web.Optimization.WebForms.1.1.3
+    ³   ³   ÃÄÄÄcontent
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.WebApi.5.2.7
+    ³   ÃÄÄÄMicrosoft.AspNet.WebApi.Client.5.2.7
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet45
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ÀÄÄÄportable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81
+    ³   ÃÄÄÄMicrosoft.AspNet.WebApi.Core.5.2.7
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.WebApi.HelpPage.5.2.7
+    ³   ³   ÀÄÄÄContent
+    ³   ³       ÀÄÄÄAreas
+    ³   ³           ÀÄÄÄHelpPage
+    ³   ³               ÃÄÄÄApp_Start
+    ³   ³               ÃÄÄÄControllers
+    ³   ³               ÃÄÄÄModelDescriptions
+    ³   ³               ÃÄÄÄModels
+    ³   ³               ÃÄÄÄSampleGeneration
+    ³   ³               ÀÄÄÄViews
+    ³   ³                   ÃÄÄÄHelp
+    ³   ³                   ³   ÀÄÄÄDisplayTemplates
+    ³   ³                   ÀÄÄÄShared
+    ³   ÃÄÄÄMicrosoft.AspNet.WebApi.WebHost.5.2.7
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.AspNet.WebPages.3.2.7
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet45
+    ³   ÃÄÄÄMicrosoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
+    ³   ³   ÃÄÄÄbuild
+    ³   ³   ³   ÃÄÄÄnet45
+    ³   ³   ³   ÀÄÄÄnet46
+    ³   ³   ÃÄÄÄcontent
+    ³   ³   ³   ÃÄÄÄnet45
+    ³   ³   ³   ÀÄÄÄnet46
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÀÄÄÄnet45
+    ³   ³   ÀÄÄÄtools
+    ³   ³       ÃÄÄÄnet45
+    ³   ³       ÃÄÄÄRoslyn45
+    ³   ³       ÀÄÄÄRoslynLatest
+    ³   ÃÄÄÄMicrosoft.jQuery.Unobtrusive.Validation.3.2.11
+    ³   ³   ÀÄÄÄContent
+    ³   ³       ÀÄÄÄScripts
+    ³   ÃÄÄÄMicrosoft.Office.Interop.Excel.15.0.4795.1000
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet20
+    ³   ÃÄÄÄMicrosoft.Office.Interop.Word.15.0.4797.1003
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet20
+    ³   ÃÄÄÄMicrosoft.Web.Infrastructure.1.0.0.0
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet40
+    ³   ÃÄÄÄModernizr.2.8.3
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ³   ÀÄÄÄScripts
+    ³   ³   ÀÄÄÄTools
+    ³   ÃÄÄÄNewtonsoft.Json.11.0.1
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄnet20
+    ³   ³       ÃÄÄÄnet35
+    ³   ³       ÃÄÄÄnet40
+    ³   ³       ÃÄÄÄnet45
+    ³   ³       ÃÄÄÄnetstandard1.0
+    ³   ³       ÃÄÄÄnetstandard1.3
+    ³   ³       ÃÄÄÄnetstandard2.0
+    ³   ³       ÃÄÄÄportable-net40%2Bsl5%2Bwin8%2Bwp8%2Bwpa81
+    ³   ³       ÀÄÄÄportable-net45%2Bwin8%2Bwp8%2Bwpa81
+    ³   ÃÄÄÄObjectDumper.1.0.0.12
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄnet35-Client
+    ³   ÀÄÄÄWebGrease.1.6.0
+    ³       ÃÄÄÄlib
+    ³       ÀÄÄÄtools
+    ÃÄÄÄSnapLab_02_5_Loops
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄSnapLab_03_WPF_CRUD
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄSnapLab_04_SQL_Exam
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ÀÄÄÄRelease
+    ³   ÃÄÄÄobj
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄTempPE
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄTempPE
+    ³   ÀÄÄÄProperties
+    ÃÄÄÄSnapLab_05_Rabbit_Explosion
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄSnapLab_18_Interfaces
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄsnaplab_19_useful_website
+    ³   ÃÄÄÄDotNetAppSqlDb
+    ³   ³   ÃÄÄÄApp_Data
+    ³   ³   ÃÄÄÄApp_Start
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄContent
+    ³   ³   ÃÄÄÄControllers
+    ³   ³   ÃÄÄÄfonts
+    ³   ³   ÃÄÄÄMigrations
+    ³   ³   ÃÄÄÄModels
+    ³   ³   ÃÄÄÄobj
+    ³   ³   ³   ÀÄÄÄDebug
+    ³   ³   ³       ÀÄÄÄTempPE
+    ³   ³   ÃÄÄÄProperties
+    ³   ³   ÃÄÄÄScripts
+    ³   ³   ÀÄÄÄViews
+    ³   ³       ÃÄÄÄProducts
+    ³   ³       ÃÄÄÄShared
+    ³   ³       ÃÄÄÄTodos
+    ³   ³       ÀÄÄÄTodosDone
+    ³   ÀÄÄÄpackages
+    ³       ÃÄÄÄAntlr.3.4.1.9004
+    ³       ³   ÀÄÄÄlib
+    ³       ÃÄÄÄbootstrap.3.4.1
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ³   ÃÄÄÄContent
+    ³       ³   ³   ÃÄÄÄfonts
+    ³       ³   ³   ÀÄÄÄScripts
+    ³       ³   ÀÄÄÄcontentFiles
+    ³       ³       ÃÄÄÄContent
+    ³       ³       ÃÄÄÄfonts
+    ³       ³       ÀÄÄÄScripts
+    ³       ÃÄÄÄEntityFramework.6.1.3
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÃÄÄÄnet40
+    ³       ³   ³   ÀÄÄÄnet45
+    ³       ³   ÀÄÄÄtools
+    ³       ÃÄÄÄjQuery.1.10.2
+    ³       ³   ÃÄÄÄContent
+    ³       ³   ³   ÀÄÄÄScripts
+    ³       ³   ÀÄÄÄTools
+    ³       ÃÄÄÄjQuery.Validation.1.11.1
+    ³       ³   ÀÄÄÄContent
+    ³       ³       ÀÄÄÄScripts
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.2.2.0
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄnet40
+    ³       ³       ÃÄÄÄnet45
+    ³       ³       ÃÄÄÄnet46
+    ³       ³       ÃÄÄÄnetstandard1.5
+    ³       ³       ÃÄÄÄportable-win81+wpa81
+    ³       ³       ÃÄÄÄuap10.0
+    ³       ³       ÀÄÄÄwp8
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.Agent.Intercept.2.0.6
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄnet40
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.DependencyCollector.2.2.0
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄnet40
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.PerfCounterCollector.2.2.0
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄnet40
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.Web.2.2.0
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ³   ÃÄÄÄnet40
+    ³       ³   ³   ÀÄÄÄnet45
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄnet40
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.WindowsServer.2.2.0
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÃÄÄÄnet40
+    ³       ³   ³   ÀÄÄÄnet45
+    ³       ³   ÀÄÄÄTools
+    ³       ÃÄÄÄMicrosoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄnet40
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.AspNet.Mvc.5.2.3
+    ³       ³   ÃÄÄÄContent
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.AspNet.Razor.3.2.3
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.AspNet.Web.Optimization.1.1.3
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÀÄÄÄnet40
+    ³       ÃÄÄÄMicrosoft.AspNet.WebPages.3.2.3
+    ³       ³   ÃÄÄÄContent
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÀÄÄÄnet45
+    ³       ÃÄÄÄMicrosoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3
+    ³       ³   ÃÄÄÄbuild
+    ³       ³   ÃÄÄÄcontent
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÀÄÄÄnet45
+    ³       ³   ÀÄÄÄtools
+    ³       ÃÄÄÄMicrosoft.IdentityModel.Clients.ActiveDirectory.3.19.4
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÃÄÄÄMonoAndroid7
+    ³       ³       ÃÄÄÄnet45
+    ³       ³       ÃÄÄÄnetcore45
+    ³       ³       ÃÄÄÄnetstandard1.1
+    ³       ³       ÃÄÄÄnetstandard1.3
+    ³       ³       ÃÄÄÄportable-net45+win
+    ³       ³       ÀÄÄÄXamarin.iOS10
+    ³       ÃÄÄÄMicrosoft.jQuery.Unobtrusive.Validation.3.2.3
+    ³       ³   ÀÄÄÄContent
+    ³       ³       ÀÄÄÄScripts
+    ³       ÃÄÄÄMicrosoft.Net.Compilers.1.3.2
+    ³       ³   ÃÄÄÄbuild
+    ³       ³   ÀÄÄÄtools
+    ³       ÃÄÄÄMicrosoft.Web.Infrastructure.1.0.0.0
+    ³       ³   ÀÄÄÄlib
+    ³       ³       ÀÄÄÄnet40
+    ³       ÃÄÄÄModernizr.2.6.2
+    ³       ³   ÃÄÄÄContent
+    ³       ³   ³   ÀÄÄÄScripts
+    ³       ³   ÀÄÄÄTools
+    ³       ÃÄÄÄNewtonsoft.Json.6.0.4
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÃÄÄÄnet20
+    ³       ³   ³   ÃÄÄÄnet35
+    ³       ³   ³   ÃÄÄÄnet40
+    ³       ³   ³   ÃÄÄÄnet45
+    ³       ³   ³   ÃÄÄÄnetcore45
+    ³       ³   ³   ÃÄÄÄportable-net40+sl5+wp80+win8+wpa81
+    ³       ³   ³   ÀÄÄÄportable-net45+wp80+win8+wpa81
+    ³       ³   ÀÄÄÄtools
+    ³       ÃÄÄÄRespond.1.2.0
+    ³       ³   ÀÄÄÄcontent
+    ³       ³       ÀÄÄÄScripts
+    ³       ÀÄÄÄWebGrease.1.5.2
+    ³           ÃÄÄÄlib
+    ³           ÀÄÄÄtools
+    ÃÄÄÄSQL
+    ÃÄÄÄStandaloneProjects
+    ³   ÀÄÄÄMVC_Core_Entity_ToDoList_01
+    ³       ÃÄÄÄbin
+    ³       ³   ÀÄÄÄDebug
+    ³       ³       ÀÄÄÄnetcoreapp2.2
+    ³       ÃÄÄÄControllers
+    ³       ÃÄÄÄData
+    ³       ÃÄÄÄMigrations
+    ³       ÃÄÄÄModels
+    ³       ÃÄÄÄobj
+    ³       ³   ÀÄÄÄDebug
+    ³       ³       ÀÄÄÄnetcoreapp2.2
+    ³       ³           ÀÄÄÄRazor
+    ³       ³               ÀÄÄÄViews
+    ³       ³                   ÃÄÄÄCategories
+    ³       ³                   ÃÄÄÄHome
+    ³       ³                   ÃÄÄÄShared
+    ³       ³                   ÃÄÄÄTasks
+    ³       ³                   ÀÄÄÄTest
+    ³       ÃÄÄÄProperties
+    ³       ÃÄÄÄViews
+    ³       ³   ÃÄÄÄCategories
+    ³       ³   ÃÄÄÄHome
+    ³       ³   ÃÄÄÄShared
+    ³       ³   ÃÄÄÄTasks
+    ³       ³   ÀÄÄÄTest
+    ³       ÀÄÄÄwwwroot
+    ³           ÃÄÄÄcss
+    ³           ÃÄÄÄjs
+    ³           ÀÄÄÄlib
+    ³               ÃÄÄÄbootstrap
+    ³               ³   ÀÄÄÄdist
+    ³               ³       ÃÄÄÄcss
+    ³               ³       ÀÄÄÄjs
+    ³               ÃÄÄÄjquery
+    ³               ³   ÀÄÄÄdist
+    ³               ÃÄÄÄjquery-validation
+    ³               ³   ÀÄÄÄdist
+    ³               ÀÄÄÄjquery-validation-unobtrusive
+    ÃÄÄÄTests
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄTests_MSTest
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÃÄÄÄcs
+    ³   ³   ³       ÃÄÄÄde
+    ³   ³   ³       ÃÄÄÄes
+    ³   ³   ³       ÃÄÄÄfr
+    ³   ³   ³       ÃÄÄÄit
+    ³   ³   ³       ÃÄÄÄja
+    ³   ³   ³       ÃÄÄÄko
+    ³   ³   ³       ÃÄÄÄpl
+    ³   ³   ³       ÃÄÄÄpt-BR
+    ³   ³   ³       ÃÄÄÄru
+    ³   ³   ³       ÃÄÄÄtr
+    ³   ³   ³       ÃÄÄÄzh-Hans
+    ³   ³   ³       ÀÄÄÄzh-Hant
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄTests_NUnit
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÃÄÄÄcs
+    ³   ³   ³       ÃÄÄÄde
+    ³   ³   ³       ÃÄÄÄes
+    ³   ³   ³       ÃÄÄÄfr
+    ³   ³   ³       ÃÄÄÄit
+    ³   ³   ³       ÃÄÄÄja
+    ³   ³   ³       ÃÄÄÄko
+    ³   ³   ³       ÃÄÄÄpl
+    ³   ³   ³       ÃÄÄÄpt-BR
+    ³   ³   ³       ÃÄÄÄru
+    ³   ³   ³       ÃÄÄÄtr
+    ³   ³   ³       ÃÄÄÄzh-Hans
+    ³   ³   ³       ÀÄÄÄzh-Hant
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÃÄÄÄTests_XUnit
+    ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄDebug
+    ³   ³   ³   ÀÄÄÄnetcoreapp3.0
+    ³   ³   ³       ÃÄÄÄcs
+    ³   ³   ³       ÃÄÄÄde
+    ³   ³   ³       ÃÄÄÄes
+    ³   ³   ³       ÃÄÄÄfr
+    ³   ³   ³       ÃÄÄÄit
+    ³   ³   ³       ÃÄÄÄja
+    ³   ³   ³       ÃÄÄÄko
+    ³   ³   ³       ÃÄÄÄpl
+    ³   ³   ³       ÃÄÄÄpt-BR
+    ³   ³   ³       ÃÄÄÄru
+    ³   ³   ³       ÃÄÄÄtr
+    ³   ³   ³       ÃÄÄÄzh-Hans
+    ³   ³   ³       ÀÄÄÄzh-Hant
+    ³   ³   ÀÄÄÄRelease
+    ³   ³       ÀÄÄÄnetcoreapp3.0
+    ³   ÀÄÄÄobj
+    ³       ÃÄÄÄDebug
+    ³       ³   ÀÄÄÄnetcoreapp3.0
+    ³       ÀÄÄÄRelease
+    ³           ÀÄÄÄnetcoreapp3.0
+    ÀÄÄÄWPF_Data_Grid
+        ÃÄÄÄbin
+        ³   ÃÄÄÄDebug
+        ³   ÀÄÄÄRelease
+        ÃÄÄÄobj
+        ³   ÃÄÄÄDebug
+        ³   ³   ÃÄÄÄedmxResourcesToEmbed
+        ³   ³   ÀÄÄÄTempPE
+        ³   ÀÄÄÄRelease
+        ³       ÀÄÄÄTempPE
+        ÀÄÄÄProperties
